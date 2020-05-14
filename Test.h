@@ -6,6 +6,8 @@
 #include "Angajat.h"
 #include "Medicament.h"
 #include "Utilizator.h"
+#include "Service.h"
+#include "MedicineService.h"
 
 class Test
 {
@@ -15,7 +17,9 @@ private:
 	void testUser();
 	void testCsv();
 	void testTxt();
-	void testLive();
+	void test1Live();
+	void testService();
+	void test2Live();
 public:
 	Test();
 	void runTests();

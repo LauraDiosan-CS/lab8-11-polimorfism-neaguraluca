@@ -150,18 +150,27 @@
     <ClCompile Include="Angajat.cpp" />
     <ClCompile Include="Laborator10.cpp" />
     <ClCompile Include="Medicament.cpp" />
+    <ClCompile Include="MedicineService.cpp" />
+    <ClCompile Include="Service.cpp" />
     <ClCompile Include="Test.cpp" />
     <ClCompile Include="Utilizator.cpp" />
+    <ClCompile Include="ValidatorAng.cpp" />
+    <ClCompile Include="ValidatorMed.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Angajat.h" />
     <ClInclude Include="IRepo.h" />
     <ClInclude Include="Medicament.h" />
+    <ClInclude Include="MedicineService.h" />
     <ClInclude Include="RepoCSV.h" />
     <ClInclude Include="RepoFile.h" />
     <ClInclude Include="RepoTXT.h" />
+    <ClInclude Include="Service.h" />
     <ClInclude Include="Test.h" />
     <ClInclude Include="Utilizator.h" />
+    <ClInclude Include="Validation.h" />
+    <ClInclude Include="ValidatorAng.h" />
+    <ClInclude Include="ValidatorMed.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Angajati.txt" />
